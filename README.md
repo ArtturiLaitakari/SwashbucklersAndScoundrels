@@ -496,7 +496,7 @@ reduces damage by 1-3, but slows you down. Medium armor puts all athletics rolls
 | Medium, reduce 2 damage | Athletics, move * is average of light and heavy move speed. |
 | Heavy, reduce 3 damage  | Sneaking, move / 2                                          |
 
-# [Critical tables](Critical tables.md)
+# [Critical tables](Critical-tables.md)
 - piercing
 - slashing
 - bludgeoning
