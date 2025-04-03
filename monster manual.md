@@ -6,123 +6,107 @@
 
 ### Giant Spider
 
-LVL: 3 | DEF: 13 | HP: 11 | MOV: 7’ | ATK: Purema (+2) | MRL: Fair (+3) | NA: 1D20/4
+LVL: 3 | DEF: 13 | HP: 11 | MOV: 7’ | ATK: Bite (+2) | MRL: Fair (+3) | NA: 1D20/4
 
-Pureman uhrit kuolevat 1D4 kierroksessa, ellei STR-tarkistus (15+) onnistu.
+Victims of the bite die in 1D4 rounds unless a STR check (15+) succeeds.
 
-Paranoidi ja väijyy saalistaan.
-
+Paranoid and ambushes its prey.
 
 ### Goblin
 
-LVL: 1 | DEF: 13 | HP: 7 | MOV: 7’ | ATK: Ase (+2) | MRL: Mediocre (+1) | NA: 1D20/2
+LVL: 1 | DEF: 13 | HP: 7 | MOV: 7’ | ATK: Weapon (+2) | MRL: Mediocre (+1) | NA: 1D20/2
 
-Pimeänäkö.
+Darkvision.
 
-Holtiton ja mielipuolinen.
-
+Reckless and insane.
 
 ### Gnoll
 
-LVL: 2 | DEF: 14 | HP: 9 | MOV: 10’ | ATK: Ase (+2) | MRL: Fair (+3) | NA: 1D20/4
+LVL: 2 | DEF: 14 | HP: 9 | MOV: 10’ | ATK: Weapon (+2) | MRL: Fair (+3) | NA: 1D20/4
 
-Laiskoja, mieluummin kiusaavat kuin taistelevat.
-
+Lazy, prefer bullying over fighting.
 
 ### Harpy
 
-LVL: 4 | DEF: 12 | HP: 11 | MOV: 7’ (15’ lentäen) | ATK: Kynnet (+1) / Laulu | MRL: Fair (+3) | NA: 1D20/4
+LVL: 4 | DEF: 12 | HP: 11 | MOV: 7’ (15’ flying) | ATK: Claws (+1) / Song | MRL: Fair (+3) | NA: 1D20/4
 
-Laulu lumoaa, ellei CHA-tarkistus (15+) onnistu.
-
+Song enchants unless a CHA check (15+) succeeds.
 
 ### Hobgoblin
 
-LVL: 2 | DEF: 13 | HP: 7 | MOV: 10’ | ATK: Ase (+2) | MRL: Good (+4) | NA: 1D20/4
+LVL: 2 | DEF: 13 | HP: 7 | MOV: 10’ | ATK: Weapon (+2) | MRL: Good (+4) | NA: 1D20/4
 
-Kunniallisia sotureita.
-
+Honorable warriors.
 
 ### Lich
 
-LVL: 9 | DEF: 19 | HP: 27 | MOV: 7’ | ATK: Kosketus (+3) | MRL: Superb (+5) | NA: 1
+LVL: 9 | DEF: 19 | HP: 27 | MOV: 7’ | ATK: Touch (+3) | MRL: Superb (+5) | NA: 1
 
-Kosketus halvaannuttaa 6 kierrosta, ellei STR-tarkistus (15+) onnistu.
+Touch paralyzes for 6 rounds unless a STR check (15+) succeeds.
 
-Kuolematon, ei reagoi mielenhallintaan, sähköön tai kylmään.
-Loitsu per level.
-
+Immortal, immune to mind control, electricity, and cold. One spell per level.
 
 ### Ogre
 
-LVL: 5 | DEF: 14 | HP: 13 | MOV: 10’ | ATK: Ase (+3) | MRL: Superb (+5) | NA: 1D20/4
+LVL: 5 | DEF: 14 | HP: 13 | MOV: 10’ | ATK: Weapon (+3) | MRL: Superb (+5) | NA: 1D20/4
 
-Pakkaa uhrejaan säkkiin myöhempää syömistä varten.
-
+Packs its victims into a sack for later consumption.
 
 ### Orc
 
-LVL: 1 | DEF: 13 | HP: 7 | MOV: 13’ | ATK: Ase (+2) | MRL: Mediocre (+1) | NA: 1D20/2
+LVL: 1 | DEF: 13 | HP: 7 | MOV: 13’ | ATK: Weapon (+2) | MRL: Mediocre (+1) | NA: 1D20/2
 
-Saa -5 taistelussa täydessä auringonvalossa.
-
+Takes -5 in combat under full sunlight.
 
 ### Purple Worm
 
-LVL: 10 | DEF: 13 | HP: 35 | MOV: 7’ | ATK: Purema (+3), Pistin (+2) | MRL: Superb (+5) | NA: 1D20/4
+LVL: 10 | DEF: 13 | HP: 35 | MOV: 7’ | ATK: Bite (+3), Stinger (+2) | MRL: Superb (+5) | NA: 1D20/4
 
-Jos purema osuu 5+ yli tarvittavan, uhri nielaistaan ja saa 3 vauriota kierroksessa.
-
+If the bite hits 5+ over the required, the victim is swallowed and takes 3 damage per round.
 
 ### Skeleton
 
-LVL: 2 | DEF: 12 | HP: 7 | MOV: 7’ | ATK: Ase (+2) | MRL: Superb (+5) | NA: 1D20/2
+LVL: 2 | DEF: 12 | HP: 7 | MOV: 7’ | ATK: Weapon (+2) | MRL: Superb (+5) | NA: 1D20/2
 
-Ei reagoi mielenhallintaan tai pistoaseisiin.
-
+Immune to mind control and piercing weapons.
 
 ### Treant
 
-LVL: 8 | DEF: 17 | HP: 21 | MOV: 7’ | ATK: Nyrkit (+3) | MRL: Great (+4) | NA: 1D20/4
+LVL: 8 | DEF: 17 | HP: 21 | MOV: 7’ | ATK: Fists (+3) | MRL: Great (+4) | NA: 1D20/4
 
-+5 yllätyshyökkäyksiin metsässä.
++5 to surprise attacks in the forest.
 
-Voi herättää 2 puuta henkiin kahdessa kierroksessa.
-
+Can animate 2 trees in two rounds.
 
 ### Troll
 
-LVL: 6 | DEF: 15 | HP: 19 | MOV: 13’ | ATK: Kynnet (+2), Purema (+3) | MRL: Superb (+5) | NA: 1D20/4
+LVL: 6 | DEF: 15 | HP: 19 | MOV: 13’ | ATK: Claws (+2), Bite (+3) | MRL: Superb (+5) | NA: 1D20/4
 
-Palauttaa 1 HP/kierros.
+Regenerates 1 HP per round.
 
-Elpyy 2D6 kierrosta kuolemansa jälkeen, ellei tuhottu tulella tai hapolla.
-
+Revives in 2D6 rounds after death unless destroyed by fire or acid.
 
 ### Vampire
 
-LVL: 8 | DEF: 17 | HP: 21 | MOV: 13’ | ATK: Kosketus (+3) / Katse | MRL: Superb (+5) | NA: 1D20/4
+LVL: 8 | DEF: 17 | HP: 21 | MOV: 13’ | ATK: Touch (+3) / Gaze | MRL: Superb (+5) | NA: 1D20/4
 
-Parantuu 1 HP kierroksessa.
+Heals 1 HP per round.
 
-Kosketus vie satunnaisen ominaisuuspisteen.
+Touch drains a random attribute point.
 
-Katse lumouttaa, ellei CHA-tarkistus (15+) onnistu.
+Gaze enchants unless a CHA check (15+) succeeds.
 
-Voi muuttua ihmiseksi, hirvisudeksi, jättilepakoksi tai sumuksi.
+Can transform into a human, dire wolf, giant bat, or mist.
 
-Tappaa aurinko tai puinen seiväs sydämen läpi.
-
+Killed by sunlight or a wooden stake through the heart.
 
 ### Werewolf
 
-LVL: 4 | DEF: 14 | HP: 14 | MOV: 20’ | ATK: Purema (+2) | MRL: Fair (+3) | NA: 1D20/4
+LVL: 4 | DEF: 14 | HP: 14 | MOV: 20’ | ATK: Bite (+2) | MRL: Fair (+3) | NA: 1D20/4
 
-Vain hopea ja magia vahingoittavat.
+Only silver and magic can harm.
 
-Pureman saanut muuttuu ihmissudeksi 2D12 päivässä, ellei STR-tarkistus (15+) onnistu.
-
-Here's the final version of the monster list with all the changes applied:
+Victims of the bite turn into werewolves in 2D12 days unless a STR check (15+) succeeds.
 
 
 ### Animated Armor
@@ -168,12 +152,11 @@ DEF 19 | HP 25 | LVL 10 | ATK +2 | MOV 10 | MRL Superb (12) | NA 1 (1) | Undead,
 DEF 13 | HP 9 | LVL 2 | ATK +1 | MOV 10 | MRL Fair (6) | NA 2 (1) | Hits paralyze targets who fail a STR check for 2 turns. Undead, silent, immune to mental spells.
 
 ### Giant
-DEF 15 | HP 16 | LVL 8 | ATK +2 | MOV 13 | MRL Good (7) | D20/5
-| Stupid.
+DEF 15 | HP 16 | LVL 8 | ATK +2 | MOV 13 | MRL Good (7) | D20/5| Stupid.
 
 ### Giant Frog
 DEF 12 | HP 7 | LVL 3 | ATK +1 | MOV 10 | MRL Fair (6) | D20/5
- Attacks up to 15’ away with its sticky tongue. On a hit, target is dragged to its
+ Attacks up to 15’ away with its sticky tongue. On a hit, target is dragged to its mouth and swallowed.
 
 
 
